@@ -40,8 +40,3 @@ phone: +7 926 766 48 48,
 
 ```
 
-Совутую пользоваться парсерами, которые были на семинаре, чтобы проверить что все сделали так, как нужно:
-
-xml-парсер: https://jsonformatter.org/xml-formatter
-
-json-парсер: https://jsonformatter.org/json-parser
